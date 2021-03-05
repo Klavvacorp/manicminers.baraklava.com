@@ -1,3 +1,5 @@
 Sitemap: https://manicminers.baraklava.com/sitemap_index.xml
 User-agent:*
 Allow: *.css
+Disallow: https://manicminers.baraklava.com/downloads/
+Disallow: https://manicminers.baraklava.com/rock-raiders-remake-download-links/
