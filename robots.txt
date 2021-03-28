@@ -1,0 +1,3 @@
+Sitemap: https://manicminers.baraklava.com/sitemap_index.xml
+User-agent:*
+Allow: *.css
