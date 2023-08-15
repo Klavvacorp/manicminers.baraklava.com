@@ -2,31 +2,27 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://manicminers.baraklava.com/</loc>
-		<lastmod>2022-04-09T21:57:01+00:00</lastmod>
+		<lastmod>2023-08-15T11:04:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://manicminers.baraklava.com/wp-content/uploads/2020/08/SplashVehicles.png</image:loc>
-			<image:caption><![CDATA[lego rock raiders remake rock raiders 2 vehicles demonstration]]></image:caption>
+			<image:loc>https://manicminers.baraklava.com/wp-content/uploads/2023/08/ItchThumb1b.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://manicminers.baraklava.com/wp-content/uploads/2022/04/websiteeditor.png</image:loc>
-			<image:caption><![CDATA[lego rock raiders remake rock raiders 2 level editor]]></image:caption>
+			<image:loc>https://manicminers.baraklava.com/wp-content/uploads/2023/08/ItchLevelEditorThumb.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://manicminers.baraklava.com/wp-content/uploads/2022/04/websitemonster.png</image:loc>
-			<image:caption><![CDATA[lego rock raiders remake rock raiders 2 creatures rock monster slimy slug]]></image:caption>
+			<image:loc>https://manicminers.baraklava.com/wp-content/uploads/2023/08/ItchCombatThumb.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://manicminers.baraklava.com/wp-content/uploads/2019/10/rru-profile2-mini.jpg.df17c8b521001aec97fedc12ac6fe601.jpg</image:loc>
-			<image:caption><![CDATA[Profile pic Baraklava]]></image:caption>
+			<image:loc>https://manicminers.baraklava.com/wp-content/uploads/2023/08/LoveRecipecropped.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://manicminers.baraklava.com/features/</loc>
-		<lastmod>2022-04-09T21:53:53+00:00</lastmod>
+		<lastmod>2023-08-15T10:51:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://manicminers.baraklava.com/faq/</loc>
-		<lastmod>2022-04-09T21:53:54+00:00</lastmod>
+		<lastmod>2023-08-15T10:56:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://manicminers.baraklava.com/wp-content/uploads/2019/10/PowerPreview.png</image:loc>
 			<image:title><![CDATA[lego-rock-raiders-remake-manic-miners-power-system-demonstration]]></image:title>
